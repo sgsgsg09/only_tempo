@@ -1,3 +1,6 @@
+#github 일부 프로젝트 가림.
+/lib/lib/features/view/widgets/dail_widget.dart
+
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +46,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
