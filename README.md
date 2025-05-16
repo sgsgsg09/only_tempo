@@ -1,5 +1,7 @@
 <aside>
-💡 **[README.MD]**
+![image](https://github.com/user-attachments/assets/f93a225f-9a0f-40ac-af2f-14ec24f9e7c7)
+
+![image](https://github.com/user-attachments/assets/61474e55-424f-4569-ae91-6795a8545975)
 
 ONLY_TEMPO
 음악을 연주할 때 정확한 리듬은 필수적입니다. 
